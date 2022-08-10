@@ -96,6 +96,7 @@ z-index: 3;
         justify-content: center;
         backdrop-filter: blur(7px);
         transition: all ease 0.5s;
+        z-index:3;
     }
     .nav-link ul li{
         margin: 25px 0;
@@ -186,6 +187,7 @@ a{
     background: #ffffff0a;
     backdrop-filter: blur(3px);
     margin-top: -500%;
+    z-index:90;
     
 }
 #popup{
