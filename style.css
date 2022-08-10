@@ -207,8 +207,8 @@ a{
         top: 0;
         display: flex;
         justify-content: center;
-        backdrop-filter: blur(7px) contrast(0.6);
-    -webkit-backdrop-filter: blur(7px) contrast(0.6);
+       backdrop-filter: blur(7px) contrast(60%);
+    -webkit-backdrop-filter: blur(7px) contrast(60%);
         transition: all ease 0.5s;
         z-index: 10;
 
