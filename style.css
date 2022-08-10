@@ -94,7 +94,7 @@ z-index: 10;
         top: 0;
         display: flex;
         justify-content: center;
-        backdrop-filter: blur(7px);
+        backdrop-filter: blur(14px);
         transition: all ease 0.5s;
         z-index:3;
     }
