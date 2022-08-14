@@ -224,14 +224,15 @@ a{
 
     }
     .carte{
-        width: 130px;
-        height: 185px;
-        margin: 5px;
+        width: 135px;
+        height: 190px;
+        margin: 3px;
 
     }
     .psnimg{
         width: 90px;
         height: 100px;
+        margin-top:20px
     }
     
     .description{
