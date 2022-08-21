@@ -159,6 +159,9 @@ a{
     background: #E5E5E5;
     border-radius: 30px;
 }
+ .nav-link ul a{  
+    color:black;
+    }
 #txtqr{
     margin: 40px 20px;
     font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -219,6 +222,10 @@ a{
         transition: all ease 0.5s;
         z-index: 10;
         color:#2F435E;
+    }
+    .active{
+        border-bottom:solid 5px #2F435E ;
+        color: #2F435E;
     }
     .nav-link ul li{
         margin: 25px 0;
