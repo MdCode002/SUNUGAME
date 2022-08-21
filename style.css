@@ -218,6 +218,7 @@ a{
     -webkit-backdrop-filter: blur(10px) contrast(70%);
         transition: all ease 0.5s;
         z-index: 10;
+        color:#2F435E;
     }
     .nav-link ul li{
         margin: 25px 0;
