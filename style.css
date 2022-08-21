@@ -194,6 +194,9 @@ a{
     #menuderou{
         display: none;
     }
+     .nav-link ul a{  
+    color:white;
+    }
     
 }
 @media (max-width:1000px){
