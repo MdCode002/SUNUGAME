@@ -132,7 +132,7 @@ a{
 .btn{
     position: relative;
     left: 50%;
-    top: 10%;
+    top: 15%;
     transform: translate(-50%,-50%);
     width: 170px;
     height: 30px;
