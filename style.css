@@ -413,3 +413,8 @@ flex-direction: column;
     
 
 }
+@media (max-width:400px){
+    #noev{
+        font-size: 1.5rem;
+    }
+}
