@@ -133,7 +133,7 @@ a{
     position: relative;
     left: 50%;
     top: 10%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%);
     width: 170px;
     height: 30px;
     background: #4296E5;
@@ -391,9 +391,7 @@ flex-direction: column;
         margin-top: 10px;
         font-size: 1.6rem;
     }
-    .btn{
-  top:30%
-    }
+
     #contact{
         display: flex;
         flex-direction: column;
